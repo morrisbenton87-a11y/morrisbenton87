@@ -4,7 +4,7 @@ Security-focused IT professional with experience in vulnerability assessment, ne
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation]https://github.com/morrisbenton87-a11y/vulnerability-management-/tree/main**
+- **[Vulnerability Management Program Implementation](https://github.com/morrisbenton87-a11y/vulnerability-management-/tree/main)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
