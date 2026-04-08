@@ -16,9 +16,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="www.linkedin.com/in/morris-benton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="morris-benton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/www.linkedin.com/in/morris-benton
+[linkedin]: https://linkedin.com/in/Morris-benton
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
